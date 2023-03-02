@@ -1,0 +1,30 @@
+{
+  "name": "react-native-trimmer-ui",
+  "version": "1.0.0",
+  "description": "A Trimmer component that renders in iOS and Android and built entirely in React Native.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdulmoeez1225/react-native-trimmer-ui.git"
+  },
+  "keywords": [
+    "trimmer",
+    "react-native",
+    "ui",
+    "ios",
+    "android",
+    "audio",
+    "video",
+    "media",
+    "controls"
+  ],
+  "author": "Repod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdulmoeez1225/react-native-trimmer-ui/issues"
+  },
+  "homepage": "https://github.com/abdulmoeez1225/react-native-trimmer-ui#readme"
+}
